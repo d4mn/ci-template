@@ -1,0 +1,20 @@
+{
+    "name": "devmine/ci-start-template",
+    "description": "Description of project ci-start-template.",
+    "authors": [
+        {
+            "name": "devmine",
+            "email": "admin@devmine.net"
+        }
+    ],
+    "repositories": [
+        {
+            "url": "https://github.com/d4mn/codeigniter-hmvc",
+            "type": "vcs"
+        }
+    ],
+    "require": {
+        "codeigniter/framework": "dev-master",
+        "d4mn/codeigniter-hmvc": "dev-master"
+    }
+}
